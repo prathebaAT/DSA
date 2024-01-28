@@ -1,2 +1,2 @@
 # DSA
-To solve dsa problems
+Collection of DSA implementations in different languages
