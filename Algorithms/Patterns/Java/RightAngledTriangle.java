@@ -14,11 +14,11 @@ import java.util.Scanner;
 
 public class RightAngledTriangle {
     
-    static void RightAngledTrianglePattern(int N)
+    static void RightAngledTrianglePattern(int size)
         {
-            for(int row = 0; row < N; row++)
+            for(int row = 0; row < size; row++)
             {
-                for(int col = row; col < N; col++)
+                for(int col = row; col < size; col++)
                 {
                     System.out.print("* ");
                 }
